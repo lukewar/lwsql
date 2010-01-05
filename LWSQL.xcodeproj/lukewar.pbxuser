@@ -9,9 +9,9 @@
 	};
 	1D3623250D0F684500981E51 /* LWSQLAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1583, 1870}}";
-			sepNavSelRange = "{2924, 0}";
-			sepNavVisRange = "{2282, 1101}";
+			sepNavIntBoundsRect = "{{0, 0}, {1583, 1853}}";
+			sepNavSelRange = "{915, 0}";
+			sepNavVisRange = "{268, 1422}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* LWSQL */ = {
@@ -69,6 +69,7 @@
 			864D7F7710F387CE00001CD2 /* PBXTextBookmark */ = 864D7F7710F387CE00001CD2 /* PBXTextBookmark */;
 			864D7F7810F387CE00001CD2 /* PBXTextBookmark */ = 864D7F7810F387CE00001CD2 /* PBXTextBookmark */;
 			864D7F8B10F3884500001CD2 /* PBXTextBookmark */ = 864D7F8B10F3884500001CD2 /* PBXTextBookmark */;
+			864D7F9010F38CC600001CD2 /* PBXTextBookmark */ = 864D7F9010F38CC600001CD2 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 864D7F4210F381F400001CD2 /* Source Control */;
 		userBuildSettings = {
@@ -232,5 +233,15 @@
 		rType = 0;
 		vrLen = 1101;
 		vrLoc = 2282;
+	};
+	864D7F9010F38CC600001CD2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LWSQLAppDelegate.m */;
+		name = "LWSQLAppDelegate.m: 30";
+		rLen = 0;
+		rLoc = 915;
+		rType = 0;
+		vrLen = 1422;
+		vrLoc = 268;
 	};
 }

@@ -273,8 +273,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>14</integer>
-									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -328,7 +326,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>864D7F8B10F3884500001CD2</string>
+										<string>864D7F9010F38CC600001CD2</string>
 										<key>history</key>
 										<array>
 											<string>864D7F7210F387CE00001CD2</string>
@@ -534,12 +532,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>864D7F8C10F3884500001CD2</string>
 		<string>864D7F8D10F3884500001CD2</string>
 		<string>864D7F8110F387CE00001CD2</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>864D7F4710F3820000001CD2</string>
+		<string>1C78EAAD065D492600B07095</string>
 		<string>/Volumes/work/LWSQL/LWSQL/LWSQL.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
